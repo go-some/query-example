@@ -3,6 +3,7 @@
 - 데이터베이스 조회시 자유롭게 변형해서 사용
 
 ## Preparation
+- .bashrc에 DBID, DBPW, DBADDR 환경변수를 정의합니다. (따로 문의주세요)
 - 몽고디비를 위한 라이브러리를 설치합니다
 ```bash
 go get go.mongodb.org/mongo-driver
