@@ -9,6 +9,7 @@ go get go.mongodb.org/mongo-driver
 ```
 - [mongodb-with-go-tutorial](https://www.mongodb.com/blog/post/mongodb-go-driver-tutorial)
 - DNS error 발생시 /etc/resolve.conf 수정 [참조](https://stackoverflow.com/questions/55660134/cant-connect-to-mongo-cloud-mongodb-database-in-golang-on-ubuntu)
+- github.com/go-some/crawler도 설치합니다
 
 ## Installation 
 - [workspace-path] 밑에서 go-some crawler를 설치합니다
